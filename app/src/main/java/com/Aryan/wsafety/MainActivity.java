@@ -1,4 +1,4 @@
-package com.vinayak09.wsafety;
+package com.aryan.wsafety;
 
 import androidx.activity.result.ActivityResultCallback;
 import androidx.activity.result.ActivityResultLauncher;
