@@ -1,8 +1,8 @@
-# Women Safety Application
+# Human Safety Application
 ## _Feel Safe Everywhere_
 
 
-Women Safety App is user friendly application built in Android Studio,
+Human Safety App is user friendly application built in Android Studio,
 it is simple to implement,easy to understand.
 
 [<img src="media/raj-arayan.png" />](https://www.linkedin.com/in/rajaryan-profile/)
@@ -24,7 +24,7 @@ it is simple to implement,easy to understand.
 - Basic knowledge about Firebase Authentication and Realtime database.
 ## Build and Run Application
 
-###### Women Safety Application requires Android Oreo or newer version to run.
+###### Human Safety Application requires Android Oreo or newer version to run.
 Follow this steps to get Working Project!
 ```
 Clone this repository or download file
