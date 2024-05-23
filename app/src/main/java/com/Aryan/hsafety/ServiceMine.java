@@ -1,4 +1,4 @@
-package com.aryan.wsafety;
+package com.aryan.hsafety;
 
 import android.Manifest;
 import android.app.Notification;
