@@ -1,4 +1,4 @@
-package com.aryan.wsafety;
+package com.aryan.hsafety;
 
 import org.junit.Test;
 
