@@ -34,7 +34,7 @@ Wait while Android Studio Download gradle or required files
 Hit Run Button !
 ```
 
-------------
+-------------
 
 **Free Software, Hell Yeah!**
 
